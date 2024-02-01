@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alfredo, you can tell me Charibu</h1>
 <h3>A passionate frontend developer and gradually falling into the backend</h3>
-<p>Jr development with one year of experience in frontend development web applications. Experience in creating web design products using specialized software such as Figma. Now, Learning Backend development is in a self-taught way.</p>
+<p>Jr development with more than two year of experience in frontend development web applications. Experience in creating web design products using specialized software such as Figma. Now, Learning Backend development is in a self-taught way.</p>
 
 
 - 📫 How to reach me **apaz20164920@gmail.com**
